@@ -1,0 +1,301 @@
+Transaction_ID,Age,Location,Payment_Method,Merchant_Category,Transaction_Amount,Transaction_Hour,Device_Type,Customer_Tenure_Months,Is_High_Value
+1,59,Wangdue,QR Payment,Online Shopping,928.13,13,iOS,38,Yes
+2,18,Mongar,QR Payment,Online Shopping,253.5,22,iOS,28,No
+3,46,Punakha,Credit Card,Retail,158.85,21,Web,25,No
+4,62,Wangdue,Mobile Wallet,Retail,345.61,19,Android,10,No
+5,66,Trashigang,Mobile Wallet,Online Shopping,285.06,16,Android,60,No
+6,52,Mongar,Bank Transfer,Retail,997.95,12,Android,42,Yes
+7,57,Sarpang,Credit Card,Utilities,325.29,21,iOS,40,No
+8,31,Trashigang,Debit Card,Online Shopping,1238.88,18,iOS,77,Yes
+9,52,Mongar,Credit Card,Retail,571.12,20,Android,42,No
+10,65,Trashigang,Bank Transfer,Restaurant,871.99,21,iOS,47,Yes
+11,62,Wangdue,Credit Card,Online Shopping,445.13,14,Android,37,No
+12,37,Sarpang,Credit Card,Online Shopping,1157.53,8,Android,80,Yes
+13,66,Mongar,Bank Transfer,Utilities,187.69,10,Web,22,No
+14,30,Paro,Mobile Wallet,Transport,485.52,15,Android,57,No
+15,55,Sarpang,Debit Card,Transport,331.18,22,Android,84,No
+16,66,Paro,Bank Transfer,Utilities,1270.89,20,iOS,27,Yes
+17,63,Trashigang,QR Payment,Utilities,1372.34,13,iOS,41,Yes
+18,66,Punakha,Mobile Wallet,Utilities,446.0,20,Android,80,No
+19,25,Sarpang,QR Payment,Transport,169.25,19,iOS,34,No
+20,60,Trashigang,Mobile Wallet,Utilities,614.2,12,Android,32,No
+21,37,Paro,Debit Card,Retail,127.94,17,Android,66,No
+22,50,Wangdue,Debit Card,Online Shopping,1509.61,22,Android,12,Yes
+23,43,Wangdue,Credit Card,Online Shopping,312.66,22,iOS,40,No
+24,56,Punakha,QR Payment,Restaurant,435.75,15,Android,73,No
+25,38,Sarpang,Mobile Wallet,Restaurant,267.54,19,Web,76,No
+26,66,Sarpang,Debit Card,Online Shopping,226.71,16,iOS,73,No
+27,59,Sarpang,Bank Transfer,Retail,775.08,7,Web,10,No
+28,60,Trashigang,Debit Card,Transport,395.85,23,Android,48,No
+29,58,Punakha,Bank Transfer,Transport,460.29,12,Web,20,No
+30,26,Sarpang,Mobile Wallet,Retail,209.99,17,Android,39,No
+31,41,Trashigang,Debit Card,Transport,847.29,7,Android,60,Yes
+32,54,Wangdue,Debit Card,Utilities,914.47,23,Android,66,Yes
+33,66,Paro,Mobile Wallet,Online Shopping,381.19,11,Android,65,No
+34,58,Trashigang,Debit Card,Online Shopping,1153.94,15,iOS,51,Yes
+35,34,Wangdue,Bank Transfer,Retail,412.36,20,Android,36,No
+36,41,Wangdue,Debit Card,Transport,800.16,10,Android,24,Yes
+37,38,Paro,QR Payment,Restaurant,132.0,8,iOS,27,No
+38,68,Wangdue,Credit Card,Restaurant,581.19,10,Android,2,No
+39,56,Punakha,Bank Transfer,Transport,363.72,13,iOS,31,No
+40,58,Paro,QR Payment,Restaurant,501.02,13,Android,57,No
+41,56,Wangdue,Mobile Wallet,Retail,484.45,13,iOS,78,No
+42,30,Mongar,Bank Transfer,Retail,489.94,17,iOS,66,No
+43,28,Trashigang,Credit Card,Transport,707.53,13,Android,29,No
+44,63,Wangdue,Credit Card,Restaurant,291.81,16,Android,15,No
+45,36,Punakha,Mobile Wallet,Retail,683.21,19,Android,12,No
+46,28,Sarpang,Mobile Wallet,Retail,1123.71,13,iOS,28,Yes
+47,30,Wangdue,Bank Transfer,Utilities,154.84,15,Android,84,No
+48,63,Sarpang,Debit Card,Utilities,248.29,12,Android,24,No
+49,62,Mongar,Mobile Wallet,Retail,256.24,22,Android,21,No
+50,18,Wangdue,Debit Card,Transport,196.56,9,Android,10,No
+51,57,Paro,QR Payment,Online Shopping,312.3,18,Android,78,No
+52,61,Sarpang,Credit Card,Online Shopping,967.62,9,iOS,18,Yes
+53,36,Mongar,Debit Card,Retail,1320.4,10,Android,14,Yes
+54,29,Paro,Credit Card,Retail,482.81,9,Android,34,No
+55,25,Paro,Debit Card,Retail,349.61,23,iOS,58,No
+56,25,Paro,QR Payment,Transport,814.19,11,iOS,76,Yes
+57,62,Paro,Mobile Wallet,Utilities,75.72,7,Android,22,No
+58,29,Wangdue,QR Payment,Retail,202.07,16,Android,70,No
+59,65,Trashigang,Mobile Wallet,Retail,78.16,19,Android,36,No
+60,50,Wangdue,Mobile Wallet,Restaurant,200.48,10,Web,45,No
+61,62,Wangdue,Credit Card,Transport,250.82,11,Android,36,No
+62,43,Mongar,QR Payment,Retail,1350.54,15,Web,22,Yes
+63,56,Mongar,Debit Card,Restaurant,56.22,13,iOS,78,No
+64,45,Trashigang,QR Payment,Online Shopping,326.19,19,Android,80,No
+65,22,Mongar,Credit Card,Retail,709.58,8,Android,61,No
+66,25,Punakha,Mobile Wallet,Retail,606.71,17,Android,56,No
+67,42,Trashigang,Credit Card,Restaurant,1334.49,21,Android,33,Yes
+68,44,Mongar,Bank Transfer,Transport,503.1,22,Android,45,No
+69,63,Trashigang,Bank Transfer,Retail,590.35,6,iOS,36,No
+70,40,Wangdue,Debit Card,Online Shopping,112.29,15,Web,20,No
+71,47,Wangdue,Credit Card,Retail,212.47,15,iOS,18,No
+72,62,Trashigang,Debit Card,Online Shopping,117.09,7,iOS,38,No
+73,64,Punakha,Debit Card,Utilities,685.03,14,Android,67,No
+74,40,Punakha,Bank Transfer,Utilities,579.12,18,Android,23,No
+75,66,Trashigang,Debit Card,Online Shopping,564.06,21,Android,16,No
+76,64,Mongar,Bank Transfer,Transport,230.19,23,iOS,59,No
+77,37,Sarpang,Mobile Wallet,Retail,214.92,17,Web,69,No
+78,35,Punakha,Credit Card,Retail,521.7,13,iOS,68,No
+79,35,Paro,Debit Card,Utilities,269.88,22,Android,21,No
+80,19,Wangdue,Bank Transfer,Online Shopping,207.41,20,Android,78,No
+81,21,Trashigang,QR Payment,Retail,304.51,15,iOS,78,No
+82,47,Paro,Debit Card,Retail,271.63,20,Android,70,No
+83,50,Trashigang,Mobile Wallet,Transport,232.75,20,iOS,12,No
+84,53,Wangdue,Mobile Wallet,Restaurant,177.8,12,iOS,16,No
+85,35,Wangdue,QR Payment,Utilities,624.23,18,iOS,81,No
+86,54,Punakha,Bank Transfer,Utilities,1432.3,22,Android,14,Yes
+87,36,Punakha,Debit Card,Restaurant,433.0,14,Android,61,No
+88,64,Paro,Bank Transfer,Retail,526.8,13,Android,71,No
+89,45,Trashigang,Mobile Wallet,Transport,666.66,23,Android,46,No
+90,57,Wangdue,Bank Transfer,Transport,586.94,18,Android,32,No
+91,37,Paro,Mobile Wallet,Utilities,236.23,21,iOS,15,No
+92,66,Sarpang,Bank Transfer,Transport,1619.52,14,iOS,44,Yes
+93,50,Paro,QR Payment,Restaurant,252.65,17,Android,17,No
+94,29,Mongar,Credit Card,Retail,724.92,17,Android,41,No
+95,68,Paro,QR Payment,Restaurant,663.58,11,Android,54,No
+96,32,Mongar,QR Payment,Online Shopping,102.63,12,Android,44,No
+97,58,Mongar,Credit Card,Utilities,340.65,8,iOS,5,No
+98,56,Mongar,Credit Card,Transport,465.2,21,Android,27,No
+99,19,Sarpang,Debit Card,Online Shopping,492.68,23,Android,78,No
+100,46,Paro,Debit Card,Transport,558.95,21,Android,79,No
+101,58,Paro,QR Payment,Retail,787.01,12,Web,43,Yes
+102,27,Sarpang,QR Payment,Retail,443.35,9,iOS,31,No
+103,19,Wangdue,Mobile Wallet,Retail,581.7,13,Android,17,No
+104,68,Punakha,Mobile Wallet,Transport,431.08,18,Android,83,No
+105,28,Paro,Debit Card,Online Shopping,207.89,18,iOS,54,No
+106,30,Punakha,Debit Card,Retail,456.83,22,Web,62,No
+107,27,Trashigang,Mobile Wallet,Online Shopping,781.97,22,Android,32,Yes
+108,31,Trashigang,Mobile Wallet,Transport,1024.12,10,Web,40,Yes
+109,35,Sarpang,Bank Transfer,Online Shopping,667.13,11,Web,13,No
+110,68,Trashigang,Bank Transfer,Transport,1212.89,18,Web,84,Yes
+111,26,Trashigang,Mobile Wallet,Transport,610.42,19,iOS,35,No
+112,56,Wangdue,Bank Transfer,Utilities,852.28,9,iOS,5,Yes
+113,45,Wangdue,Credit Card,Transport,900.58,12,Android,73,Yes
+114,20,Wangdue,Debit Card,Transport,377.09,13,iOS,29,No
+115,37,Trashigang,Debit Card,Restaurant,768.55,18,Android,70,No
+116,23,Sarpang,Mobile Wallet,Retail,220.2,11,iOS,25,No
+117,44,Mongar,QR Payment,Utilities,579.61,11,Android,22,No
+118,19,Mongar,Mobile Wallet,Utilities,687.3,8,iOS,66,No
+119,46,Punakha,Bank Transfer,Utilities,980.75,8,iOS,45,Yes
+120,55,Mongar,QR Payment,Restaurant,825.15,18,Android,69,Yes
+121,20,Mongar,Bank Transfer,Transport,990.38,7,iOS,72,Yes
+122,33,Wangdue,Credit Card,Retail,413.83,21,Android,1,No
+123,47,Wangdue,Bank Transfer,Online Shopping,344.11,11,iOS,84,No
+124,57,Trashigang,Credit Card,Transport,362.79,13,Android,44,No
+125,19,Punakha,Credit Card,Restaurant,544.42,13,Android,75,No
+126,34,Paro,Bank Transfer,Transport,114.83,11,Web,39,No
+127,58,Punakha,Bank Transfer,Transport,1210.54,19,Android,54,Yes
+128,29,Punakha,Credit Card,Restaurant,460.77,8,iOS,75,No
+129,52,Sarpang,QR Payment,Utilities,326.6,15,Android,29,No
+130,60,Trashigang,Credit Card,Utilities,66.87,8,Android,54,No
+131,18,Sarpang,Debit Card,Retail,433.72,17,Android,16,No
+132,62,Punakha,Credit Card,Retail,384.19,22,iOS,20,No
+133,32,Punakha,QR Payment,Utilities,227.51,10,Android,46,No
+134,43,Punakha,Debit Card,Online Shopping,269.14,14,Android,67,No
+135,54,Mongar,Mobile Wallet,Transport,437.04,12,Android,65,No
+136,38,Sarpang,Mobile Wallet,Online Shopping,286.81,9,Android,58,No
+137,66,Punakha,QR Payment,Transport,684.65,18,Web,53,No
+138,48,Wangdue,Credit Card,Utilities,254.27,18,Web,1,No
+139,42,Trashigang,Bank Transfer,Retail,500.67,15,Android,81,No
+140,40,Trashigang,QR Payment,Retail,1080.34,23,iOS,66,Yes
+141,41,Wangdue,Debit Card,Online Shopping,433.79,22,Android,29,No
+142,55,Trashigang,Debit Card,Retail,582.3,18,iOS,84,No
+143,45,Mongar,Mobile Wallet,Utilities,555.29,22,iOS,70,No
+144,38,Mongar,Debit Card,Online Shopping,448.54,9,Web,8,No
+145,60,Paro,QR Payment,Transport,424.0,6,Android,29,No
+146,35,Paro,Debit Card,Retail,290.46,6,iOS,51,No
+147,53,Paro,QR Payment,Restaurant,499.33,20,Android,33,No
+148,52,Trashigang,Bank Transfer,Retail,360.52,18,Web,3,No
+149,62,Mongar,Mobile Wallet,Transport,1421.64,22,Android,60,Yes
+150,26,Mongar,Debit Card,Online Shopping,819.22,13,iOS,35,Yes
+151,55,Mongar,QR Payment,Transport,149.97,23,iOS,69,No
+152,47,Wangdue,Credit Card,Restaurant,156.36,18,iOS,76,No
+153,61,Mongar,Mobile Wallet,Utilities,404.3,19,Android,84,No
+154,51,Wangdue,Bank Transfer,Retail,331.46,13,Web,20,No
+155,49,Paro,QR Payment,Online Shopping,388.62,13,Android,73,No
+156,20,Paro,Bank Transfer,Utilities,726.6,20,iOS,39,No
+157,20,Trashigang,Bank Transfer,Transport,564.99,18,Android,4,No
+158,45,Paro,Debit Card,Online Shopping,560.72,12,Android,19,No
+159,61,Trashigang,Debit Card,Utilities,1319.02,10,Android,45,Yes
+160,32,Punakha,QR Payment,Online Shopping,157.33,22,Android,43,No
+161,58,Punakha,Credit Card,Restaurant,482.0,21,Android,13,No
+162,40,Sarpang,QR Payment,Restaurant,288.79,7,Android,13,No
+163,57,Trashigang,Credit Card,Retail,1308.42,23,Android,60,Yes
+164,28,Sarpang,Bank Transfer,Retail,85.03,22,iOS,57,No
+165,65,Sarpang,Mobile Wallet,Restaurant,87.87,12,Web,52,No
+166,49,Punakha,QR Payment,Online Shopping,560.3,18,Android,53,No
+167,53,Trashigang,QR Payment,Restaurant,1037.66,23,Android,43,Yes
+168,50,Punakha,Credit Card,Retail,796.27,19,Android,83,Yes
+169,41,Sarpang,Bank Transfer,Restaurant,244.51,23,Android,72,No
+170,56,Trashigang,Bank Transfer,Restaurant,1379.97,18,iOS,72,Yes
+171,51,Sarpang,Credit Card,Online Shopping,177.04,16,iOS,42,No
+172,45,Mongar,Bank Transfer,Utilities,1188.7,21,Android,26,Yes
+173,54,Trashigang,Debit Card,Retail,195.5,22,Android,23,No
+174,24,Trashigang,Mobile Wallet,Online Shopping,342.45,13,Android,43,No
+175,21,Sarpang,QR Payment,Restaurant,720.14,20,iOS,77,No
+176,54,Mongar,Mobile Wallet,Restaurant,148.46,14,Web,28,No
+177,18,Wangdue,QR Payment,Utilities,1341.8,15,Android,9,Yes
+178,18,Punakha,Debit Card,Retail,340.88,17,Android,20,No
+179,64,Sarpang,Bank Transfer,Retail,494.21,6,Web,56,No
+180,37,Trashigang,Credit Card,Transport,1065.98,14,Web,83,Yes
+181,36,Punakha,Debit Card,Retail,245.96,20,Android,39,No
+182,46,Punakha,Mobile Wallet,Utilities,987.93,6,Android,51,Yes
+183,27,Punakha,Credit Card,Transport,1525.99,17,Android,12,Yes
+184,35,Wangdue,Bank Transfer,Transport,272.68,8,iOS,79,No
+185,45,Paro,Debit Card,Restaurant,1245.19,16,Android,55,Yes
+186,52,Sarpang,Credit Card,Restaurant,119.05,7,Android,78,No
+187,60,Paro,Debit Card,Retail,597.17,21,iOS,11,No
+188,64,Paro,Debit Card,Transport,177.43,14,Android,26,No
+189,48,Paro,Bank Transfer,Restaurant,904.09,20,iOS,42,Yes
+190,44,Punakha,QR Payment,Utilities,850.09,17,Android,27,Yes
+191,28,Mongar,Credit Card,Restaurant,2117.59,6,Android,11,Yes
+192,66,Punakha,Bank Transfer,Restaurant,1294.61,18,iOS,38,Yes
+193,66,Punakha,Debit Card,Transport,393.73,19,Android,43,No
+194,55,Trashigang,Bank Transfer,Transport,198.08,13,Web,19,No
+195,22,Trashigang,QR Payment,Online Shopping,681.48,13,Android,64,No
+196,25,Paro,Credit Card,Utilities,426.01,17,Android,6,No
+197,51,Punakha,QR Payment,Transport,1427.05,6,iOS,46,Yes
+198,65,Paro,Mobile Wallet,Retail,87.81,16,Android,42,No
+199,69,Trashigang,Credit Card,Utilities,2300.87,13,Web,65,Yes
+200,29,Mongar,QR Payment,Utilities,664.47,15,Android,72,No
+201,55,Sarpang,Debit Card,Transport,242.32,16,Android,59,No
+202,18,Paro,Credit Card,Utilities,773.16,12,Android,52,No
+203,48,Mongar,Credit Card,Transport,1179.76,16,Android,47,Yes
+204,21,Sarpang,Bank Transfer,Restaurant,485.78,22,iOS,7,No
+205,66,Wangdue,Debit Card,Online Shopping,118.67,6,iOS,11,No
+206,62,Paro,Mobile Wallet,Restaurant,357.67,13,Android,61,No
+207,67,Paro,QR Payment,Transport,972.19,11,Android,68,Yes
+208,22,Wangdue,Bank Transfer,Transport,647.1,23,iOS,25,No
+209,47,Wangdue,QR Payment,Restaurant,396.48,11,Web,12,No
+210,41,Paro,Mobile Wallet,Retail,1189.44,10,Android,26,Yes
+211,20,Wangdue,Mobile Wallet,Retail,776.25,18,Android,12,Yes
+212,28,Punakha,Credit Card,Retail,822.42,13,Android,43,Yes
+213,62,Sarpang,Mobile Wallet,Transport,327.68,14,Web,51,No
+214,21,Sarpang,QR Payment,Utilities,304.74,22,Android,37,No
+215,43,Sarpang,Debit Card,Transport,124.59,8,Android,46,No
+216,44,Punakha,Debit Card,Utilities,367.03,16,iOS,53,No
+217,63,Wangdue,Credit Card,Restaurant,899.23,22,Android,80,Yes
+218,60,Mongar,QR Payment,Online Shopping,382.58,7,Android,13,No
+219,44,Wangdue,QR Payment,Utilities,622.76,13,Android,54,No
+220,59,Paro,Mobile Wallet,Retail,1025.98,12,Android,57,Yes
+221,68,Trashigang,QR Payment,Transport,589.71,22,Android,4,No
+222,67,Sarpang,Bank Transfer,Restaurant,634.53,11,Android,75,No
+223,23,Wangdue,Mobile Wallet,Retail,161.04,11,Android,49,No
+224,32,Mongar,Bank Transfer,Restaurant,350.05,7,iOS,7,No
+225,47,Paro,Credit Card,Online Shopping,1627.78,11,iOS,11,Yes
+226,59,Punakha,Debit Card,Transport,481.95,10,iOS,54,No
+227,54,Punakha,Credit Card,Transport,1849.28,9,Android,45,Yes
+228,54,Mongar,Debit Card,Online Shopping,259.22,22,Android,23,No
+229,59,Paro,Credit Card,Transport,531.37,16,Android,28,No
+230,54,Sarpang,QR Payment,Utilities,334.62,9,Android,57,No
+231,52,Wangdue,Bank Transfer,Restaurant,695.05,18,Android,26,No
+232,40,Paro,Debit Card,Retail,872.41,22,iOS,25,Yes
+233,23,Punakha,Mobile Wallet,Online Shopping,700.54,14,Android,54,No
+234,21,Mongar,Bank Transfer,Utilities,973.98,9,Android,29,Yes
+235,35,Mongar,Mobile Wallet,Retail,441.47,19,Android,83,No
+236,26,Wangdue,Bank Transfer,Retail,386.49,8,iOS,36,No
+237,66,Mongar,Bank Transfer,Online Shopping,119.27,19,Android,14,No
+238,46,Mongar,Credit Card,Utilities,719.7,13,iOS,78,No
+239,30,Paro,Debit Card,Retail,507.32,6,Android,35,No
+240,64,Sarpang,Debit Card,Retail,423.72,15,Web,30,No
+241,69,Wangdue,Bank Transfer,Utilities,386.41,23,Web,17,No
+242,34,Paro,QR Payment,Transport,433.69,21,Android,67,No
+243,62,Sarpang,QR Payment,Retail,373.46,13,Android,80,No
+244,49,Paro,Mobile Wallet,Restaurant,300.06,6,Android,30,No
+245,65,Trashigang,Mobile Wallet,Utilities,533.62,17,Android,45,No
+246,39,Paro,Credit Card,Retail,641.06,13,iOS,79,No
+247,21,Mongar,Bank Transfer,Online Shopping,250.15,21,iOS,51,No
+248,22,Sarpang,Mobile Wallet,Restaurant,330.12,23,iOS,47,No
+249,54,Wangdue,Mobile Wallet,Retail,382.43,9,iOS,53,No
+250,58,Wangdue,Bank Transfer,Restaurant,447.47,11,Android,64,No
+251,66,Sarpang,Credit Card,Restaurant,404.99,17,Android,38,No
+252,30,Mongar,Mobile Wallet,Transport,731.28,14,iOS,64,No
+253,51,Punakha,Credit Card,Restaurant,129.12,20,Android,7,No
+254,62,Paro,Debit Card,Transport,147.48,21,iOS,22,No
+255,39,Mongar,Credit Card,Utilities,515.52,17,Android,81,No
+256,40,Trashigang,QR Payment,Transport,283.72,19,Android,82,No
+257,68,Sarpang,QR Payment,Online Shopping,865.39,18,Web,41,Yes
+258,20,Paro,Credit Card,Retail,1072.07,7,Android,74,Yes
+259,59,Wangdue,QR Payment,Utilities,531.29,8,Web,10,No
+260,51,Punakha,Debit Card,Utilities,199.54,15,Web,57,No
+261,49,Trashigang,Bank Transfer,Online Shopping,983.33,14,iOS,7,Yes
+262,62,Wangdue,QR Payment,Transport,517.59,13,iOS,50,No
+263,68,Sarpang,QR Payment,Retail,146.17,15,iOS,52,No
+264,66,Paro,Credit Card,Transport,156.2,8,Web,33,No
+265,38,Sarpang,Debit Card,Restaurant,1390.91,10,Android,1,Yes
+266,63,Paro,Bank Transfer,Transport,1228.26,8,Android,53,Yes
+267,61,Mongar,Credit Card,Utilities,67.5,21,iOS,60,No
+268,38,Punakha,Credit Card,Retail,161.04,22,Android,34,No
+269,61,Mongar,Debit Card,Transport,1049.05,20,Android,4,Yes
+270,28,Mongar,Bank Transfer,Retail,439.72,8,Android,17,No
+271,56,Sarpang,Debit Card,Retail,754.75,17,iOS,4,No
+272,21,Punakha,Bank Transfer,Restaurant,425.62,14,Web,43,No
+273,68,Paro,Debit Card,Restaurant,728.41,17,Android,4,No
+274,18,Paro,Credit Card,Utilities,447.81,20,Web,1,No
+275,45,Trashigang,Credit Card,Online Shopping,321.11,7,iOS,71,No
+276,41,Wangdue,Mobile Wallet,Retail,986.4,23,iOS,50,Yes
+277,52,Trashigang,QR Payment,Online Shopping,518.81,17,iOS,73,No
+278,30,Trashigang,Debit Card,Utilities,727.27,9,iOS,61,No
+279,64,Paro,Mobile Wallet,Retail,501.74,21,Android,35,No
+280,51,Sarpang,QR Payment,Retail,309.58,21,iOS,8,No
+281,28,Mongar,Debit Card,Online Shopping,1489.64,6,Android,24,Yes
+282,53,Mongar,Bank Transfer,Transport,581.86,7,Web,83,No
+283,68,Mongar,QR Payment,Restaurant,341.62,8,Web,36,No
+284,34,Punakha,Credit Card,Transport,1162.99,22,Android,50,Yes
+285,52,Paro,Mobile Wallet,Online Shopping,165.57,6,Android,43,No
+286,35,Sarpang,QR Payment,Restaurant,2385.62,11,iOS,27,Yes
+287,57,Punakha,QR Payment,Transport,389.8,20,Android,32,No
+288,39,Wangdue,Credit Card,Restaurant,172.26,19,Web,78,No
+289,41,Sarpang,Debit Card,Retail,1862.09,20,Android,18,Yes
+290,36,Trashigang,Bank Transfer,Transport,315.02,19,Android,28,No
+291,54,Sarpang,Credit Card,Restaurant,535.09,10,Web,29,No
+292,56,Sarpang,Bank Transfer,Restaurant,763.77,11,iOS,16,No
+293,38,Mongar,Debit Card,Restaurant,1083.69,22,iOS,47,Yes
+294,25,Sarpang,QR Payment,Transport,558.26,16,Android,59,No
+295,45,Trashigang,Bank Transfer,Utilities,274.38,21,iOS,31,No
+296,22,Trashigang,Mobile Wallet,Transport,525.44,17,iOS,4,No
+297,34,Paro,Mobile Wallet,Online Shopping,325.55,20,iOS,37,No
+298,54,Sarpang,Credit Card,Transport,537.41,9,iOS,17,No
+299,53,Mongar,Debit Card,Restaurant,1511.88,23,iOS,39,Yes
+300,36,Sarpang,Credit Card,Retail,785.99,8,Android,48,Yes
